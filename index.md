@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Authors: Jakub Kučečka, Juraj Vincúr, Peter Kapec, Pavel Čičák
 
-You can use the [editor on GitHub](https://github.com/JakubKucecka/UML-based_VR_LiveProgrammingEnvironment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Testing build
+## Packages that need to be added for the proper functioning of the open-source project:
+ - Speech Recognition using Google Cloud [VR\AR\Mobile\Desktop] Pro >= 4.1.2
+ - InGame Code Editor >= 1.1.3
+ - Roslyn C# >= 1.7.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Free requirements
+ - MSAGL
+ - Oculus Integration >= 37.0
+ - Text Mesh Pro
+ - Unity UI Extensions
 
-### Markdown
+## Files
+Testing buil for your headset you find in [link](https://drive.google.com/file/d/1Pls64Khru_PQNxx_AXv_39UyQWNHGIkE/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Run
+Before starting the game, it is necessary to add one of the [linked](https://drive.google.com/drive/folders/1zDH56n_0L6q5Bkw1v0o_fJpgtc_0iOPF?usp=sharing) directories with source codes to the location pointed to by Application.persistentDataPath.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakubKucecka/UML-based_VR_LiveProgrammingEnvironment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Videos
+## Tool presentation video
+[video](https://youtu.be/7HCWL81w11k)
+## GamePlay
+[video](https://youtu.be/OQ1R4sbpp6c)

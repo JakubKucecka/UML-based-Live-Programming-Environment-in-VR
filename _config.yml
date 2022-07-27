@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: UML-based VR Live Programming Environment
+description: Every day, an ordinary programmer encounters complications associated with software development, such as a lack of workspace, disorientation or frustration with the source code. In our work, we are dedicated to the development of IDE (Integrated Development Environment) in Virtual Reality. The user develops the source code in a text editor, from which the changes are projected into the UML class diagram. The system works in the form of MDD (Model Driven Development) and the RTE (Round-trip user also has the opportunity to test the prepared source code directly in the system thanks to the compilation directly at runtime on a simple prototype of the maze runner game.
